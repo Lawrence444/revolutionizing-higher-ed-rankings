@@ -162,4 +162,5 @@ A: Yes! Please open an issue or pull request on our [GitHub repository](https://
 ## Acknowledgments
 
 - **Dr. Fuxin Li** – Associate Professor, Oregon State University  
-- **Diji Yang** – PhD Student, University of California Santa Cruz  
+- **Diji Yang** – PhD Student, University of California Santa Cruz
+- **Dr. Yi Zhang** - Professor, University of California Santa Cruz
